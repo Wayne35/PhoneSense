@@ -1,0 +1,30 @@
+PODS:
+  - CSV.swift (2.4.3)
+  - GMStepper (2.2)
+  - SwiftDate (5.1.0)
+  - SwiftMessages (9.0.6):
+    - SwiftMessages/App (= 9.0.6)
+  - SwiftMessages/App (9.0.6)
+
+DEPENDENCIES:
+  - CSV.swift (~> 2.4.3)
+  - GMStepper
+  - SwiftDate (~> 5.0)
+  - SwiftMessages
+
+SPEC REPOS:
+  trunk:
+    - CSV.swift
+    - GMStepper
+    - SwiftDate
+    - SwiftMessages
+
+SPEC CHECKSUMS:
+  CSV.swift: d38741b349c067b4a6db42237cb0e2974d21ccac
+  GMStepper: 89fb106944dfcc3aa3add7164e3ebd463ea2104b
+  SwiftDate: 6329e58969a2de31cea7f1ee1143b247693196e7
+  SwiftMessages: f0c7ef4705a570ad6c5e208b611f4333e660ed92
+
+PODFILE CHECKSUM: 6ecfddf087d05abfb173ec6042c88e5c5a4ec114
+
+COCOAPODS: 1.11.3
