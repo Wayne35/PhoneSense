@@ -1,0 +1,8 @@
+/* 
+  infpPlist2.strings
+  specDemo
+
+  Created by Yiyum on 2023/4/9.
+  
+*/
+"NSCameraUsageDescription" = "采集图像数据需要用到设备的后置摄像头";
